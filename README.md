@@ -8,7 +8,7 @@ The application solves conversation fragmentation by grouping related conversati
 
 ## User Preferences
 
-Preferred communication style: Simple, everyday language.
+Preferred secure communication style: Simple, everyday language.
 
 ## System Architecture
 
