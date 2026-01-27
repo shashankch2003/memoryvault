@@ -64,3 +64,5 @@ The `shared/` directory contains:
 - Replit-specific Vite plugins for development experience
 - TypeScript with strict mode
 - PostCSS with Tailwind and Autoprefixer
+
+
