@@ -66,4 +66,4 @@ The `shared/` directory contains:
 - PostCSS with Tailwind and Autoprefixer
 
 ## Security:
-soc2
+- **soc2**
