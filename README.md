@@ -65,8 +65,5 @@ The `shared/` directory contains:
 - TypeScript with strict mode
 - PostCSS with Tailwind and Autoprefixer
 
-## Overview
-
-
-##Security:
+## Security:
 soc2
