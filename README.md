@@ -49,7 +49,6 @@ The `shared/` directory contains:
 - **Drizzle Kit**: Database migrations and schema pushing
 
 ### Third-Party Services
-- **Supermemory.ai**: External memory API integration for AI memory storage and retrieval (requires `SUPERMEMORY_API_KEY`)
 - **OpenAI**: AI capabilities for chat functionality (requires `OPENAI_API_KEY`)
 
 ### Key npm Packages
