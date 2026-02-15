@@ -65,4 +65,6 @@ The `shared/` directory contains:
 - PostCSS with Tailwind and Autoprefixer
 
 ## Security:
+
+-**secure from prompt injection attacks**
 - **soc2**
